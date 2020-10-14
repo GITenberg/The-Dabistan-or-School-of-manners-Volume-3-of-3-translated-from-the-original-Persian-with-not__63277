@@ -1,5 +1,5 @@
 _repo: The-Dabistan-or-School-of-manners-Volume-3-of-3-translated-from-the-original-Persian-with-not__63277
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   dubious_author:
     agent_name: Fani, Muhsin
@@ -22,8 +22,13 @@ contributor:
     gutenberg_agent_id: '52356'
     url: http://www.gutenberg.org/2009/agents/52356
     wikipedia: https://en.wikipedia.org/wiki/David_Shea_(linguist)
+covers:
+- cover_type: archival
+  image_path: 63277-h/images/cover.jpg
 description: Erroneously attributed to Muhsin Fani, d. 1671 or 2. Cf. Enc. of Islam,
   new ed.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63277#The-Dabistan-or-School-of-manners-Volume-3-of-3-translated-from-the-original-Persian-with-not_
 gutenberg_issued: '2020-09-23'
 gutenberg_type: Text
 identifiers:
