@@ -1,0 +1,42 @@
+_repo: The-Dabistan-or-School-of-manners-Volume-3-of-3-translated-from-the-original-Persian-with-not__63277
+_version: 0.0.1
+contributor:
+  dubious_author:
+    agent_name: Fani, Muhsin
+    aliases:
+    - فانى، محسن
+    - فانى كشميرى، محسن بن حسن
+    - Fani Kashmiri, Muhsin ibn Hasan
+    deathdate: 1671
+    gutenberg_agent_id: '52358'
+    url: http://www.gutenberg.org/2009/agents/52358
+    wikipedia: https://en.wikipedia.org/wiki/Mohsin_Fani
+  translators:
+  - agent_name: Troyer, Anthony
+    deathdate: 1865
+    gutenberg_agent_id: '52357'
+    url: http://www.gutenberg.org/2009/agents/52357
+  - agent_name: Shea, David
+    birthdate: 1777
+    deathdate: 1836
+    gutenberg_agent_id: '52356'
+    url: http://www.gutenberg.org/2009/agents/52356
+    wikipedia: https://en.wikipedia.org/wiki/David_Shea_(linguist)
+description: Erroneously attributed to Muhsin Fani, d. 1671 or 2. Cf. Enc. of Islam,
+  new ed.
+gutenberg_issued: '2020-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religions'
+- !lcc 'BL'
+- !lcsh 'Iran -- Religion'
+- GITenberg
+title: "The Dabistán, or School of manners, Volume 3 (of 3)\r\ntranslated from the\
+  \ original Persian, with notes and illustrations"
+url: http://www.gutenberg.org/ebooks/63277
